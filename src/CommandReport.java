@@ -1,5 +1,3 @@
-package pattern;
-
 public class CommandReport {
     private boolean success;
     private String output;

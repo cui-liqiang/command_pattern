@@ -1,5 +1,3 @@
-package pattern;
-
 import java.io.IOException;
 
 public class Agent {
